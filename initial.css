@@ -1,0 +1,11 @@
+body {
+    background-image: url("initial.jpg");
+    background-size:cover;
+    background-repeat: no-repeat;
+    overflow: hidden;
+    width:100%;
+}
+#click{
+    width:100px;
+    height:50px;
+}

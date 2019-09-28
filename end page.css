@@ -1,0 +1,19 @@
+body {
+    background-image: url("eating lion.jpg");
+    background-size:cover;
+    background-repeat: no-repeat;
+    overflow: hidden;
+    width:100%;
+}
+#die{
+    text-align: center;
+    color: aliceblue;
+}
+#team{
+    text-align: right;
+    color: red;
+}
+#click{
+    width:100px;
+    height:50px;
+}
